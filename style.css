@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', 'sans-serif';
+    box-sizing: border-box;
+}
+.banner-area{
+    width: 100%;
+    height: 100vh;
+    background-image: url(file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/taxi2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header img{
+    width: 100px;
+    border-radius: 50px;
+}
+nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar{
+    flex: 1;
+    text-align: right;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    margin-left: 3%;
+}
+.navbar ul li a{
+    color: #000;
+    text-decoration: none;
+    font-size: 15px;
+}
+.container-area{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content h2{
+    font-size: 40px;
+    text-align: center;
+}
+.content p{
+    font-size: 20px;
+    text-align: center;
+}
+
+/*-- Services --*/
+.services{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background: #eee;
+}
+
+.services h2{
+    color: #000;
+    font-size: 22px;
+    margin-bottom: 5%;
+}
+
+.services .container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.services .card{
+    background-color: #fff;
+    width: 250px;
+    margin: 15px;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+}
+
+.services .card-image{
+    background-color: #333;
+    height: 150px;
+    background-size: cover;
+}
+
+.tour1{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour1.jpg');
+}
+
+.tour2{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour2.jpg');
+}
+
+.tour3{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour3.png');
+}
+
+.tour4{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour4.png');
+}
+
+.tour5{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour5.jpg');
+}
+
+.tour6{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour6.jpg');
+}
+
+.tour7{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour7.jpg');
+}
+
+.tour8{
+    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour8.jpg');
+}
+
+.services .card h2{
+    color: #777;
+    padding: 20px 10px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+.services .card p{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.services .card a{
+    color: #fcfc;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    padding: 8px;
+    background: #202020;
+    margin: 10px 60px;
+}
+
+.services .card a:hover{
+    transform: scale(1.03);
+    transition: 0.6s;
+    color: #fff;
+}
