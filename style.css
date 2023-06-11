@@ -7,7 +7,7 @@
 .banner-area{
     width: 100%;
     height: 100vh;
-    background-image: url(file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/taxi2.png);
+    background-image: url('/images/taxi2.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -87,35 +87,35 @@ nav{
 }
 
 .tour1{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour1.jpg');
+    background-image: url('/images/tour1.jpg');
 }
 
 .tour2{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour2.jpg');
+    background-image: url('/images/tour2.jpg');
 }
 
 .tour3{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour3.png');
+    background-image: url('/images/tour3.png');
 }
 
 .tour4{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour4.png');
+    background-image: url('/images/tour4.png');
 }
 
 .tour5{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour5.jpg');
+    background-image: url('/images/tour5.jpg');
 }
 
 .tour6{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour6.jpg');
+    background-image: url('/images/tour6.jpg');
 }
 
 .tour7{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour7.jpg');
+    background-image: url('/images/tour7.jpg');
 }
 
 .tour8{
-    background-image: url('file:///C:/cabantuganJM/Projects/CebuTourServiceTaxi/images/tour8.jpg');
+    background-image: url('/images/tour8.jpg');
 }
 
 .services .card h2{
