@@ -87,35 +87,35 @@ nav{
 }
 
 .tour1{
-    background-image: url('/images/tour1.jpg');
+    background-image: url('/images/tour1.JPG');
 }
 
 .tour2{
-    background-image: url('/images/tour2.jpg');
+    background-image: url('/images/tour2.JPG');
 }
 
 .tour3{
-    background-image: url('/images/tour3.png');
+    background-image: url('/images/tour3.PNG');
 }
 
 .tour4{
-    background-image: url('/images/tour4.png');
+    background-image: url('/images/tour4.PNG');
 }
 
 .tour5{
-    background-image: url('/images/tour5.jpg');
+    background-image: url('/images/tour5.JPG');
 }
 
 .tour6{
-    background-image: url('/images/tour6.jpg');
+    background-image: url('/images/tour6.JPG');
 }
 
 .tour7{
-    background-image: url('/images/tour7.jpg');
+    background-image: url('/images/tour7.JPG');
 }
 
 .tour8{
-    background-image: url('/images/tour8.jpg');
+    background-image: url('/images/tour8.JPG');
 }
 
 .services .card h2{
